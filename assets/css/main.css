@@ -1881,6 +1881,18 @@
 				color: #fff;
 			}
 
+			.con.circle.fa-rss {
+				background: #db6b67;
+				color: #fff;
+			}
+				.icon.circle.fa-rss:hover {
+					background: #df7b77;
+				}
+			.icon.circle.fa-heart-o {
+				background: #dcad8b;
+				color: #fff;
+			}
+
 				.icon.circle.fa-github:hover {
 					background: #e1b89b;
 				}
